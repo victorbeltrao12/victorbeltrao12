@@ -7,19 +7,16 @@ Meu portfólio com alguns projetos envolvendo Data Science
   <img src="https://raw.githubusercontent.com/victorbeltrao12/Data_science_main/master/banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Victor Beltrao Valente Duarte
+<sub>*Data scientist and big data analyst in training</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Bachelor's Degree in Computer Science from the University Center of the North (Uninorte). He has experience in Computer Science working as technical support, carrying out inventories, maintenance, and cleaning of equipment, network infrastructure, and help desk. He is currently a student of Data Science and Big Data focusing on Analysts and Data visualization. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, SQL, technical support.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/victorbeltrao/)
+* [Medium](https://medium.com/@victorbeltraoduarte)
 
 
 ## Projetos:

@@ -18,6 +18,9 @@ Bachelor's Degree in Computer Science from the University Center of the North (U
 * [LinkedIn](https://www.linkedin.com/in/victorbeltrao/)
 * [Medium](https://medium.com/@victorbeltraoduarte)
 
+## Certificados:
+Alguns certificados que me auxiliaram a chegar ate aqui:
+* **IBM Data Science** (https://bit.ly/37dYD98)
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:

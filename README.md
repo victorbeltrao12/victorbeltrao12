@@ -23,6 +23,6 @@ Alguns certificados que me auxiliaram a chegar ate aqui:
 * **IBM Data Science** (https://bit.ly/37dYD98)
 
 ## Projetos:
-Analises de dados do Airbnb da cidade de Barcelona (
+Analises de dados do Airbnb da cidade de Barcelona (encurtador.com.br/gtFJ6)
 
 ---

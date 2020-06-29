@@ -24,5 +24,6 @@ Alguns certificados que me auxiliaram a chegar ate aqui:
 
 ## Projetos:
 Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
-Analisando os dados da violencia no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
+Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
+
 ---

@@ -27,4 +27,5 @@ Alguns certificados que me auxiliaram a chegar ate aqui:
 
 * Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
 
+* Panorama do COVID-19 no Brasil (https://bit.ly/3jqvCww)
 ---

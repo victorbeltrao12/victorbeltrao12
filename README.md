@@ -22,10 +22,14 @@ Bachelor's Degree in Computer Science from the University Center of the North (U
 Alguns certificados que me auxiliaram a chegar ate aqui:
 * **IBM Data Science** (https://bit.ly/37dYD98)
 
-## Projetos:
+## Projetos em Data Science:
 * Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
 
 * Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
 
 * Panorama do COVID-19 no Brasil (https://bit.ly/3jqvCww)
+
+## Projetos em Data Visualization utilizando Microsoft Power BI:
+
+* Analises de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
 ---

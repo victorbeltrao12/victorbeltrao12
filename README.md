@@ -12,7 +12,7 @@ Meu portfólio com alguns projetos envolvendo Data Science
 
 Bachelor's Degree in Computer Science from the University Center of the North (Uninorte). He has experience in Computer Science working as technical support, carrying out inventories, maintenance, and cleaning of equipment, network infrastructure, and help desk. He is currently a student of Data Science and Big Data focusing on Analysts and Data visualization. 
 
-**Background in:** Python, SQL, technical support.
+**Background in:** Python, SQL, Microsoft Power BI, Data Analytics and technical support.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/victorbeltrao/)

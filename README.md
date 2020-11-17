@@ -32,4 +32,6 @@ Alguns certificados que me auxiliaram a chegar ate aqui:
 ## Projetos em Data Visualization utilizando Microsoft Power BI:
 
 * Analises de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
+* Analises de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)
+* Analises de dados de Vendas x Metas -  Curso Power BI DATAB (https://bit.ly/2Hb8WSX)
 ---

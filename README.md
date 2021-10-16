@@ -10,7 +10,8 @@ Meu portfólio com alguns projetos envolvendo Data Science
 # Victor Beltrao Valente Duarte
 <sub>Data Science, Data Analytics and Business Analyst student</sub>
 
-Bachelor's Degree in Computer Science from the University Center of the North (Uninorte). He has experience in Computer Science working as technical support, carrying out inventories, maintenance, and cleaning of equipment, network infrastructure, and help desk. He is currently a student of Data Science and Big Data focusing on Analysts and Data visualization. 
+Bachelor's degree in computer science from the University Center of the North (UNINORTE Laureate), Specialization in Data Science and Big Data with emphasis on Data Analysis and Visualization by the Pontifical Catholic University of Minas Gerais (PUC - Minas), currently a Master's student in Computer Science at the Federal University of Amazonas (UFAM) with emphasis in the area of Machine Learning and Data Mining, Acted as technical support providing various services such as Help Desk, Infrastructure, Maintenance and configuration of computers. Already worked as BI Analyst creating Dashboard using Microsoft Power BI, data extraction and transformation using Pentaho Data Integration.
+
 
 **Background in:** Python, SQL, Microsoft Power BI, Data Analytics and technical support.
 

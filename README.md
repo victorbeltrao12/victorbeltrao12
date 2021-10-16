@@ -33,8 +33,8 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
   
 
   <a href="https://github.com/victorbeltrao12">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=vue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=vue"/>
 </div>
  
   <div align="center">    

@@ -24,9 +24,11 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ##
 <div align="center"> 
  
-  <a href ="mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/1bmjid8hF9Sc8pxMEkwKh3?si=7d1c93ae5bef4f07"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href= "https://steamcommunity.com/id/vbvd/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://br.op.gg/multi/query=vikotsuby%2Cgrayback"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
 </div>
   
 
@@ -35,8 +37,7 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=vue"/>
 </div>
  
-    
-##
+  <div align="center">    
 
 ### 🔨 Linguagens e Bibliotecas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,8 +50,7 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ![Matplotlib](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-  
+ 
  ### Banco de Dados:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,19 +60,9 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
-### IDE:
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   
-### Ferramentas que quero me aperfeiçoar:
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  
-## Certificados:
-* **IBM Data Science Professional**: (https://bit.ly/37dYD98)
+  </div>
 
 ## Projetos em Data Science:
 * Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)

@@ -21,6 +21,7 @@ Meu portifólio com alguns projetos envolvendo a área de ciência de dados.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
 </div>
   
 ##
@@ -44,7 +45,7 @@ Bachelor's degree in computer science from the University Center of the North (U
 * [Medium](https://medium.com/@victorbeltraoduarte)
 
 ## Certificados:
-Alguns certificados que me auxiliaram a chegar ate aqui:
+Alguns cursos que me auxiliaram:
 * **IBM Data Science** (https://bit.ly/37dYD98)
 
 ## Projetos em Data Science:

@@ -1,41 +1,56 @@
 
 # Victor Beltrao Valente Duarte
-<sub>Data Science enthusiast, Data Analytics and Business Analyst student</sub>
+<sub></sub>
 
-<div align="center">
+<div align="left">
 
-Bachelor's degree in computer science from the University Center of the North (UNINORTE Laureate), Specialization in Data Science and Big Data with emphasis on Data Analysis and Visualization by the Pontifical Catholic University of Minas Gerais (PUC - Minas), currently a Master's student in Computer Science at the Federal University of Amazonas (UFAM) with emphasis in the area of Machine Learning and Data Mining, Acted as technical support providing various services such as Help Desk, Infrastructure, Maintenance and configuration of computers. Already worked as BI Analyst creating Dashboard using Microsoft Power BI, data extraction and transformation using Pentaho Data Integration.
+Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pelo Centro Universitário do Norte (UNINORTE Laureate), sou Especializado em Ciência de Dados e Big Data com ênfase em Análise de Dados e Aprendizagem de Máquina pela Pontifícia Universidade Católica de Minas Gerais (PUC - Minas), e atualmente aluno de Mestrado em Informática na Universidade Federal do Amazonas (UFAM) com ênfase na área de Machine Learning e Data Mining.
 </div>
 
+<img align="right" alt="GIF" src="https://i.gifer.com/origin/70/707699a22a7f4faae1d81351fb16d110.gif">
+
+### 🧐 Sobre a minha pessoa:
+
+- 🔭 &nbsp; Atualmente eu trabalho com **Machine Learning**;
+- 🤝 &nbsp; Quero trabalhar com **Data Science**;
+- 🌱 &nbsp; Atualmente estou aprendendo **Scikit-Learn, TensorFlow e Keras**; 
+- 👨🏻‍💻 &nbsp; A maioria dos meus projetos pessoais se encontra no [Github](https://github.com/victorbeltrao12?tab=repositories);
+- 💬 &nbsp; Pode me perguntar sobre qualquer coisa relacionada com tecnologia, anime, mangá, leitura e reflexão da vida na terra, terei todo o prazer em tentar ajudar;
+- 📫 &nbsp; Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/victorbeltrao/);
+- 📝 &nbsp; Meu curriculo [CV](https://drive.google.com/file/d/1crtjGowZJE4HOpdz2VYRWyzULhje3UHv/view?usp=sharing);
+- 📚 &nbsp; Quando tenho tempo livre, costumo jogar D&D, vejo algumas series e animes, costumo ler alguns livros, mangás e manwhas.
 <div align="center">
-  <a href="https://github.com/victorbeltrao12">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
   
 ##
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="victor-Jupyter" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="victor-Python" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="victor-numpy" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="victor-pandas" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="victor-Mplt" height="150" width="120" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg">
-  <img align="center" alt="victor-Scikit" height="200" width="200" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg">
-  <img align="center" alt="victor-tf" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
-  <img align="center" alt="victor-keras" height="100" width="100" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg">
-  <img align="center" alt="victor-Spark" height="100" width="100" src="https://github.com/valohai/ml-logos/blob/master/spark.svg">
-  
-</div>
-  
-##
-  <div align="center"> 
+<div align="center"> 
  
   <a href = "mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
+  
+
+  <a href="https://github.com/victorbeltrao12">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=vue"/>
+</div>
+ 
     
 ##
+
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 ## Certificados:
 Alguns cursos que me auxiliaram:

@@ -1,44 +1,41 @@
-## Olá me chamo Victor Beltrão e bem vindo ao meu repositório.
-Meu portifólio com alguns projetos envolvendo a área de ciência de dados.
 
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victorbeltrao12/Data_science_main/master/banner.png" >
-</p>
-
-<div align="center">
-  <a href="https://github.com/victorbeltrao12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="victor-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="victor-numpy" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="victor-pandas" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="victor-tf" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
-</div>
-  
-##
-  <div> 
- 
-  <a href = "mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
- ##
-    
 # Victor Beltrao Valente Duarte
 <sub>Data Science enthusiast, Data Analytics and Business Analyst student</sub>
 
+<div align="center">
+
 Bachelor's degree in computer science from the University Center of the North (UNINORTE Laureate), Specialization in Data Science and Big Data with emphasis on Data Analysis and Visualization by the Pontifical Catholic University of Minas Gerais (PUC - Minas), currently a Master's student in Computer Science at the Federal University of Amazonas (UFAM) with emphasis in the area of Machine Learning and Data Mining, Acted as technical support providing various services such as Help Desk, Infrastructure, Maintenance and configuration of computers. Already worked as BI Analyst creating Dashboard using Microsoft Power BI, data extraction and transformation using Pentaho Data Integration.
+</div>
 
-
-**Background in:** Python, SQL, Microsoft Power BI, Data Analytics and technical support.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/victorbeltrao/)
-* [Medium](https://medium.com/@victorbeltraoduarte)
+<div align="center">
+  <a href="https://github.com/victorbeltrao12">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+  
+##
+  
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="victor-Jupyter" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="victor-Python" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="victor-numpy" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="victor-pandas" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="victor-Mplt" height="150" width="120" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg">
+  <img align="center" alt="victor-Scikit" height="200" width="200" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg">
+  <img align="center" alt="victor-tf" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
+  <img align="center" alt="victor-keras" height="100" width="100" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg">
+  <img align="center" alt="victor-Spark" height="100" width="100" src="https://github.com/valohai/ml-logos/blob/master/spark.svg">
+  
+</div>
+  
+##
+  <div align="center"> 
+ 
+  <a href = "mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+    
+##
 
 ## Certificados:
 Alguns cursos que me auxiliaram:

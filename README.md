@@ -9,8 +9,8 @@ Meu portifólio com alguns projetos envolvendo a área de ciência de dados.
 
 <div align="center">
   <a href="https://github.com/victorbeltrao12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbeltrao12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=dark"/>
 
 # Victor Beltrao Valente Duarte
 <sub>Data Science enthusiast, Data Analytics and Business Analyst student</sub>

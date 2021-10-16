@@ -22,14 +22,14 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 <div align="center">
   
 ##
-<div align="center"> 
+  <div align="center"> 
  
   <a href = "mailto:victorbeltraoduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/1bmjid8hF9Sc8pxMEkwKh3?si=7d1c93ae5bef4f07"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href= "https://steamcommunity.com/id/vbvd/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://br.op.gg/multi/query=vikotsuby%2Cgrayback"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
-</div>
+  </div>
   
 
   <a href="https://github.com/victorbeltrao12">
@@ -51,7 +51,7 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  
- ### Banco de Dados:
+### Banco de Dados:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
@@ -61,17 +61,15 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+ </div>
   
-  </div>
-
 ## Projetos em Data Science:
-* Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
-
 * Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
 
 * Panorama do COVID-19 no Brasil (https://bit.ly/3jqvCww)
+* Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
 
-## Projetos em Data Visualization utilizando Microsoft Power BI:
+## Projetos em Analytics e Dataviz utilizando Microsoft Power BI:
 
 * Analises de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
 * Analises de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)

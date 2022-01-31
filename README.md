@@ -4,14 +4,14 @@
 
 <div align="left">
 
-Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pelo Centro Universitário do Norte (UNINORTE Laureate), sou Especializado em Ciência de Dados e Big Data com ênfase em Análise de Dados e Aprendizagem de Máquina pela Pontifícia Universidade Católica de Minas Gerais (PUC - Minas), e atualmente aluno de Mestrado em Informática na Universidade Federal do Amazonas (UFAM) com ênfase na área de Machine Learning e Data Mining.
+Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pelo Centro Universitário do Norte (UNINORTE Laureate), sou Especializado em Ciência de Dados e Big Data com ênfase em Análise de Dados e Aprendizagem de Máquina pela Pontifícia Universidade Católica de Minas Gerais (PUC - Minas), e atualmente aluno de Mestrado em Informática na Universidade Federal do Amazonas (UFAM) com ênfase na área de Inteligência Artificial e Machine Learning.
 </div>
 
 <img align="right" alt="GIF" src="https://i.gifer.com/origin/70/707699a22a7f4faae1d81351fb16d110.gif">
 
 ### 🧐 Sobre a minha pessoa:
 
-- 🔭 &nbsp; Atualmente eu trabalho com **Machine Learning**;
+- 🔭 &nbsp; Atualmente eu estudo assuntos que envolva **Inteligência Artificial** e **Machine Learning**;
 - 🤝 &nbsp; Quero trabalhar com **Data Science**;
 - 🌱 &nbsp; Atualmente estou aprendendo **Scikit-Learn, TensorFlow e Keras**; 
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos pessoais se encontra no [Github](https://github.com/victorbeltrao12?tab=repositories);

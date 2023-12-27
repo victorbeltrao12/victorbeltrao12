@@ -13,7 +13,7 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 
 - 🔭 &nbsp; Atualmente eu estudo assuntos que envolva **Inteligência Artificial** e **Machine Learning**;
 - 🤝 &nbsp; Quero trabalhar com **Data Science**;
-- 🌱 &nbsp; Atualmente estou aprendendo **Scikit-Learn, TensorFlow e Keras**; 
+- 🌱 &nbsp; Atualmente estou aprendendo **Python(Scikit-Learn,TensorFlow, Keras, etc), Java e PHP.**; 
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos pessoais se encontra no [Github](https://github.com/victorbeltrao12?tab=repositories);
 - 💬 &nbsp; Pode me perguntar sobre qualquer coisa relacionada com tecnologia, anime, mangá, leitura e reflexão da vida na terra, terei todo o prazer em tentar ajudar;
 - 📫 &nbsp; Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/victorbeltrao/);
@@ -46,7 +46,6 @@ Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pe
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)

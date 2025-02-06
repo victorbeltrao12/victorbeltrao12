@@ -7,7 +7,8 @@
 Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Computação pelo Centro Universitário do Norte (Uninorte), tenho especialização em em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), e sou Mestre em Informática pela Universidade Federal do Amazonas (UFAM) na área de Inteligência Computacional e Ciência de Dados.
 </div>
 
-<img align="right" alt="GIF" src="https://i.gifer.com/origin/70/707699a22a7f4faae1d81351fb16d110.gif">
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/lER2_kKTywYAAAAd/monkey-adult-swim.gif" width="430" height="230">
+
 
 ### 🧐 Sobre a minha pessoa:
 
@@ -16,7 +17,6 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 - 👨🏻‍💻 &nbsp; Meus projetos de estudo podem ser vistos no [Github](https://github.com/victorbeltrao12?tab=repositories);
 - 💬 &nbsp; Ask me Anything;
 - 📫 &nbsp; Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/victorbeltrao/);
-- 📝 &nbsp; Meu curriculo [CV](https://drive.google.com/file/d/1crtjGowZJE4HOpdz2VYRWyzULhje3UHv/view?usp=sharing);
 <div align="center">
   
 ##
@@ -26,7 +26,7 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
   <a href = "https://www.linkedin.com/in/victorbeltrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/1bmjid8hF9Sc8pxMEkwKh3?si=7d1c93ae5bef4f07"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href= "https://steamcommunity.com/id/vbvd/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://br.op.gg/multi/query=vikotsuby%2Cgrayback"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
+  <a href="https://br.op.gg/multi/query=Borrachudo%2Cgrayback"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
   </div>
   
 
@@ -66,8 +66,7 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 * Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
 
 ## Projetos em Análise de Negócio utilizando Microsoft Power BI:
-
-* Analises de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
-* Analises de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)
-* Analises de dados de Vendas x Metas -  Curso Power BI DATAB (https://bit.ly/2Hb8WSX)
+* Análise de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
+* Análise de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)
+* Análise de dados de Vendas x Metas -  Curso Power BI DATAB (https://bit.ly/2Hb8WSX)
 ---

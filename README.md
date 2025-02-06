@@ -4,21 +4,19 @@
 
 <div align="left">
 
-Olá, muito prazer, me chamo Victor Beltrão, possuo bacharel em informática pelo Centro Universitário do Norte (UNINORTE Laureate), sou Especializado em Ciência de Dados e Big Data com ênfase em Análise de Dados e Aprendizagem de Máquina pela Pontifícia Universidade Católica de Minas Gerais (PUC - Minas), e atualmente aluno de Mestrado em Informática na Universidade Federal do Amazonas (UFAM) com ênfase na área de Inteligência Artificial e Machine Learning.
+Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Computação pelo Centro Universitário do Norte (Uninorte), tenho especialização em em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), e sou Mestre em Informática pela Universidade Federal do Amazonas (UFAM) na área de Inteligência Computacional e Ciência de Dados.
 </div>
 
 <img align="right" alt="GIF" src="https://i.gifer.com/origin/70/707699a22a7f4faae1d81351fb16d110.gif">
 
 ### 🧐 Sobre a minha pessoa:
 
-- 🔭 &nbsp; Atualmente eu estudo assuntos que envolva **Inteligência Artificial** e **Machine Learning**;
-- 🤝 &nbsp; Quero trabalhar com **Data Science**;
-- 🌱 &nbsp; Atualmente estou aprendendo **Python(Scikit-Learn,TensorFlow, Keras, etc), Java e PHP.**; 
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos pessoais se encontra no [Github](https://github.com/victorbeltrao12?tab=repositories);
-- 💬 &nbsp; Pode me perguntar sobre qualquer coisa relacionada com tecnologia, anime, mangá, leitura e reflexão da vida na terra, terei todo o prazer em tentar ajudar;
+- 🔭 &nbsp; Atualmente eu estudo assuntos que envolva **Inteligência Artificial**, **Aprendizado de Máquina**, **Séries Temporais**;
+- 🤝 &nbsp; Quero trabalhar na área de pesquisa em **Inteligência Artificial**;
+- 👨🏻‍💻 &nbsp; Meus projetos de estudo podem ser vistos no [Github](https://github.com/victorbeltrao12?tab=repositories);
+- 💬 &nbsp; Ask me Anything;
 - 📫 &nbsp; Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/victorbeltrao/);
 - 📝 &nbsp; Meu curriculo [CV](https://drive.google.com/file/d/1crtjGowZJE4HOpdz2VYRWyzULhje3UHv/view?usp=sharing);
-- 📚 &nbsp; Quando tenho tempo livre, costumo jogar D&D, vejo algumas series e animes, costumo ler alguns livros, mangás e manwhas.
 <div align="center">
   
 ##

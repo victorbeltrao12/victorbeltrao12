@@ -4,7 +4,7 @@
 
 <div align="left">
 
-Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Computação pelo Centro Universitário do Norte (Uninorte), tenho especialização em em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), e sou Mestre em Informática pela Universidade Federal do Amazonas (UFAM) na área de Inteligência Computacional e Ciência de Dados.
+Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Computação pelo Centro Universitário do Norte (Uninorte), tenho especialização em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), e sou Mestre em Informática pela Universidade Federal do Amazonas (UFAM) na área de Inteligência Computacional e Ciência de Dados.
 </div>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/lER2_kKTywYAAAAd/monkey-adult-swim.gif" width="430" height="230">

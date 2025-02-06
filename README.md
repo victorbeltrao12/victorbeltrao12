@@ -59,14 +59,22 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
  </div>
  --> 
- 
-## Estudo sobre Ciência de Dados:
-* Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
-* Panorama do COVID-19 no Brasil (https://bit.ly/3jqvCww)
-* Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
 
-## Projetos em Análise de Negócio utilizando Microsoft Power BI:
-* Análise de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
-* Análise de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)
-* Análise de dados de Vendas x Metas -  Curso Power BI DATAB (https://bit.ly/2Hb8WSX)
+
+ 
+## Projetos com Microsoft Power BI:
+### Análise de dados da balança comercial Brasileira
+- O estudo analisa o comércio internacional brasileiro entre 2015 e 2020, avaliando a balança comercial através dos fluxos de importação e exportação, bem como o valor acumulado em reais durante este período.
+- Tecnologias: SQL e PBI.
+- [Link do Projeto](https://bit.ly/3khM81g)
+  
+### Análise de dados de vendas e produtos
+- Foram analisados dados simulados de transações comerciais entre 2016 e 2020, explorando a evolução das vendas, principais categorias e produtos comercializados, assim como sua distribuição geográfica.
+- Tecnologias: Excel, SQL e PBI.
+- [Link do Projeto](https://bit.ly/38YW25I)
+
+### Análise de dados de Vendas x Metas  
+- A análise abrangeu dados simulados de desempenho comercial, incluindo metas percentuais e absolutas de vendas, variação cambial do dólar e demais indicadores financeiros.
+- Tecnologias: Excel, SQL e PBI.
+- [Link do Projeto](https://bit.ly/2Hb8WSX)
 ---

@@ -36,7 +36,7 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 </div>
  
   <div align="center">    
-
+<!--
 ### 🔨 Linguagens e Bibliotecas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,7 +59,7 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
  </div>
-  
+ --> 
 ## Projetos em Data Science:
 * Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
 

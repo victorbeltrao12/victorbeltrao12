@@ -35,8 +35,7 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbeltrao12&layout=compact&langs_count=7&theme=vue"/>
 </div>
  
-  <div align="center">    
-<!--
+ <!-- <div align="center">
 ### 🔨 Linguagens e Bibliotecas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,13 +59,13 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
  </div>
  --> 
-## Projetos em Data Science:
+ 
+## Estudo sobre Ciência de Dados:
 * Analisando os Crimes no Estado do Rio de Janeiro (https://bit.ly/2YKxUyc)
-
 * Panorama do COVID-19 no Brasil (https://bit.ly/3jqvCww)
 * Analises de dados do Airbnb da cidade de Barcelona (https://bit.ly/3f61BiG)
 
-## Projetos em Analytics e Dataviz utilizando Microsoft Power BI:
+## Projetos em Análise de Negócio utilizando Microsoft Power BI:
 
 * Analises de dados da balança comercial Brasileira (https://bit.ly/3khM81g)
 * Analises de dados de vendas e produtos - Curso Power BI DATAB (https://bit.ly/38YW25I)

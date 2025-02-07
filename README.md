@@ -14,7 +14,6 @@ Olá, muito prazer, me chamo Victor Beltrão, sou bacharel em Ciência da Comput
 
 - 🔭 &nbsp; Atualmente estudo assuntos que envolva **Inteligência Artificial** no geral;
 - 🤝 &nbsp; Quero trabalhar na área de pesquisa em **Inteligência Artificial**;
-- 👨🏻‍💻 &nbsp; Meus projetos de estudo podem ser vistos no [Github](https://github.com/victorbeltrao12?tab=repositories);
 - 💬 &nbsp; Ask me Anything;
 - 📫 &nbsp; Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/victorbeltrao/);
 <div align="center">
